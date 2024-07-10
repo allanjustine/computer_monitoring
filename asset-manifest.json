@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/computer_monitoring/static/css/main.d8d063f2.css",
+    "main.js": "/computer_monitoring/static/js/main.7d96d104.js",
+    "static/media/bg.png": "/computer_monitoring/static/media/bg.1fa2e09c448475fe1b35.png",
+    "static/media/smct.png": "/computer_monitoring/static/media/smct.8f913671755cdecf2721.png",
+    "static/media/profile.png": "/computer_monitoring/static/media/profile.e140540ca0b3fad9de64.png",
+    "index.html": "/computer_monitoring/index.html",
+    "main.d8d063f2.css.map": "/computer_monitoring/static/css/main.d8d063f2.css.map",
+    "main.7d96d104.js.map": "/computer_monitoring/static/js/main.7d96d104.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d8d063f2.css",
+    "static/js/main.7d96d104.js"
+  ]
+}
